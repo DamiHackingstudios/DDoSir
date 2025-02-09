@@ -1,7 +1,7 @@
 # DDoSir
 multitool for ethical hackers really easy to use and to install
 
-#DDoSir by mr flip
+DDoSir by mr flip
 
 EN: This is a project for educational only use it if you are allowed and in a controlled space 
 THE CREATOR IS NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO ANYTHING PLEASE BE CAREFUL
