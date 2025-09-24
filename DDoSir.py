@@ -26,9 +26,9 @@ def display_gui():
 class RLAgent:
     def __init__(self, num_networks):
         self.q_table = np.zeros((num_networks, 2))
-        self.learning_rate = 0.1
-        self.discount_factor = 0.9
-        self.epsilon = 1.0  
+        self.learning_rate = 0.2
+        self.discount_factor = 0.8
+        self.epsilon = 1.2  
         self.epsilon_decay = 0.99
 
     def select_action(self, state):
@@ -208,4 +208,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
